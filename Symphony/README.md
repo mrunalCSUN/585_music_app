@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Symphany
 
 Develop an elegant React.js Music Application. 
 
